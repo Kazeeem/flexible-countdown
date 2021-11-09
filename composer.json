@@ -3,11 +3,6 @@
     "description": "This library creates a countdown timer from a date passed to it and it provides very flexible options you can use to format it.",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Kazeeem\\FlexibleCountdown\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Kazeem Asifat",
