@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://codingkaz.com.ng"><img src="https:codingkaz.com.ng/images/countdown.gif" alt="Flexible Countdown" width="200"></a>
+  <a href="https://codingkaz.com.ng"><img src="https://codingkaz.com.ng/images/countdown.gif" alt="Flexible Countdown" width="200"></a>
   <br>
   Flexible Countdown
   <br>
@@ -47,11 +47,12 @@ $ you could install it via composer
 
 # Locate the flexible-countdown.js file which will be found in src/assets/js
 $ Make sure the flexible-countdown.js file is placed below your jquery.
+```
 
 ![screenshot](https://codingkaz.com.ng/images/carbon.png)
-
 # You can use the plugin as it is in the sample above
-$ However, there are some optional parameters you may want to use as well:
+However, there are some optional parameters you may want to use as well:
+
 
 ## Credits
 This plugin uses the following libraries:
