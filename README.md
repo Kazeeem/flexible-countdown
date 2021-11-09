@@ -13,12 +13,13 @@
     <img src="https://img.shields.io/github/v/release/Kazeeem/flexible-countdown?label=Latest%20Release"
     Latest Release
   </a>
+</p>
+  
   [![GitHub license](https://img.shields.io/github/license/Kazeeem/StrapDown.js.svg)](https://github.com/Kazeeem/StrapDown.js/blob/master/LICENSE)
   [![GitHub commits](https://badgen.net/github/commits/Kazeeem/Strapdown.js)](https://GitHub.com/Kazeeem/StrapDown.js/commit/)
   [![GitHub latest commit](https://badgen.net/github/last-commit/Kazeeem/Strapdown.js)](https://GitHub.com/Kazeeem/StrapDown.js/commit/)
   [![GitHub forks](https://badgen.net/github/forks/Kazeeem/Strapdown.js/)](https://GitHub.com/Kazeeem/StrapDown.js/network/)
   [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-</p>
   
  <p align="center">
   <a href="#key-features">Key Features</a> •
