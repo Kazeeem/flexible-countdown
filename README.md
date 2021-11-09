@@ -10,15 +10,19 @@
 
 <p align="center">
   <a href="https://img.shields.io/github/v/release/Kazeeem/flexible-countdown?label=Latest%20Release">
-    <img src="https://img.shields.io/github/v/release/Kazeeem/flexible-countdown?label=Latest%20Release"
-    Latest Release
+    <img src="https://img.shields.io/github/v/release/Kazeeem/flexible-countdown?label=Latest%20Release">
+  </a>
+  <a href="https://img.shields.io/github/last-commit/Kazeeem/flexible-countdown">
+    <img src="https://img.shields.io/github/last-commit/Kazeeem/flexible-countdown">
+  </a>
+  <a href="https://img.shields.io/github/forks/Kazeeem/flexible-countdown?style=social">
+    <img src="https://img.shields.io/github/forks/Kazeeem/flexible-countdown?style=social">
+  </a>    
+  <a href="https://img.shields.io/github/license/Kazeeem/flexible-countdown">
+    <img src="https://img.shields.io/github/license/Kazeeem/flexible-countdown">
   </a>
 </p>
   
-  [![GitHub license](https://img.shields.io/github/license/Kazeeem/StrapDown.js.svg)](https://github.com/Kazeeem/StrapDown.js/blob/master/LICENSE)
-  [![GitHub commits](https://badgen.net/github/commits/Kazeeem/Strapdown.js)](https://GitHub.com/Kazeeem/StrapDown.js/commit/)
-  [![GitHub latest commit](https://badgen.net/github/last-commit/Kazeeem/Strapdown.js)](https://GitHub.com/Kazeeem/StrapDown.js/commit/)
-  [![GitHub forks](https://badgen.net/github/forks/Kazeeem/Strapdown.js/)](https://GitHub.com/Kazeeem/StrapDown.js/network/)
   [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
   
  <p align="center">
@@ -52,7 +56,25 @@ $ Make sure the flexible-countdown.js file is placed below your jquery.
 ![screenshot](https://codingkaz.com.ng/images/carbon.png)
 # You can use the plugin as it is in the sample above
 However, there are some optional parameters you may want to use as well:
+* expiry_message
+  - This is the message you may want to display when the timer reaches zero. If this value is not passed, the default message is "Time Up"
+* reload_page
+  - This takes the value of true or false. It reloads the page when the countdown reaches zero.
+* suffix
+  - This also takes the value of true or false. It will display the letters of the time beside the individual numbers
+* show_days
+  - By default, the timer shows Hour, minutes and seconds but if you want it to show the value of remaining days, you can set this to true
+* show_weeks
+  - If you want to show remaining weeks.
+* show_months
+  - If you want to show remaining months.
+* show_years
+  - If you want to show remaining year.
+* local
+  - You can specify the timezone you want the counter to use. By default, it is set to Africa/Lagos.
 
+# Full Sample Code
+![screenshot](https://codingkaz.com.ng/images/carbon1.png)
 
 ## Credits
 This plugin uses the following libraries:
